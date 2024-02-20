@@ -1,0 +1,10 @@
+dbsql:
+  host: 127.0.0.1
+  port: 3307
+  user: root
+  pwd: root
+  database: fw_case_mgt
+
+backend:
+  host: localhost
+  port: 9200
